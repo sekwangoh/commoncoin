@@ -1,2 +1,2 @@
-# commoncoin
-commoncoin, the most awesome coin made in Node.js
+# Commoncoin
+Commoncoin, the most awesome coin made in Node.js
